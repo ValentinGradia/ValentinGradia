@@ -23,7 +23,8 @@
 
 <br>
 
-Como bien dice el titulo, mi nombre es Valentin, soy un estudiando de desarrollo de software actualmente estudiando la Licenciatura en Gestion Informatica en la Uai y recibido , en Tecnico en programacion en la UTN. Desarrolle tanto aplicaciones moviles, de escritorio, aplicaciones "head-less", APIS en el front y back end, proyectos en arduino y videojuegos. Aunque me especializo en el Back-end. 
+Como bien dice el título, mi nombre es Valentín. Soy estudiante de desarrollo de software y actualmente curso la Licenciatura en Gestión Informática en la UAI. Ademas, me recibí como Técnico en Programación en la UTN.
+He desarrollado aplicaciones móviles, de escritorio, aplicaciones headless, APIs tanto en el frontend como en el backend, proyectos con Arduino y videojuegos. Aunque tengo experiencia en varias áreas, me especializo en el desarrollo backend.
 
   ## Algunas de mis estadisticas
   ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=ValentinGradia&layout=compact&theme=tokyonight)
