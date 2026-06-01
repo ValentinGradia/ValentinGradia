@@ -19,7 +19,6 @@
   </ul>
 </div>
 
-## **Sobre mi**
 
 <br>
 
