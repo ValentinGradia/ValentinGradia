@@ -14,6 +14,7 @@
                 <br>
                 <li>📫 Contacto: <a href="mailto:valentingonzalezgradia@gmail.com">valentingonzalezgradia@gmail.com</a></li>
                 <br>
+                <li>💻 Stack: C# | .NET | ASP.NET Core | SQL Server | Docker | Azure | Terraform </li>
             </ul>
         </h3>
     </div>
